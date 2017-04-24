@@ -1,4 +1,7 @@
-# api documentation for  [gulp-jekyll (v0.0.0)](https://github.com/dannygarcia/gulp-jekyll#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-jekyll.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-jekyll) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-jekyll.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-jekyll)
+# npmdoc-gulp-jekyll
+
+#### api documentation for  [gulp-jekyll (v0.0.0)](https://github.com/dannygarcia/gulp-jekyll#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-jekyll.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-jekyll) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-jekyll.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-jekyll)
+
 #### Compile Jekyll sites with Gulp.
 
 [![NPM](https://nodei.co/npm/gulp-jekyll.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-jekyll)
@@ -69,7 +72,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.0.0"
+    "version": "0.0.0",
+    "bin": {}
 }
 ```
 
